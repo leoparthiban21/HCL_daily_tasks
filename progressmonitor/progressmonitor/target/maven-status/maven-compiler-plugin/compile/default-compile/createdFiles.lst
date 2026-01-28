@@ -1,0 +1,11 @@
+com\student\progressmonitor\config\SecurityConfig.class
+com\student\progressmonitor\service\ProgressService.class
+com\student\progressmonitor\service\UserService.class
+com\student\progressmonitor\controller\UserController.class
+com\student\progressmonitor\repository\UserRepository.class
+com\student\progressmonitor\controller\ProgressController.class
+com\student\progressmonitor\ProgressmonitorApplication.class
+com\student\progressmonitor\repository\ProgressRepository.class
+com\student\progressmonitor\entity\User.class
+com\student\progressmonitor\model\User.class
+com\student\progressmonitor\entity\Progress.class
